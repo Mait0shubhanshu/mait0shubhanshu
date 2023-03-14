@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubhanshu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mait0shubhanshu&label=Profile%20views&color=0e75b6&style=flat" alt="mait0shubhanshu" /> </p>
 
@@ -23,7 +23,7 @@ img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1
 <a href="https://fb.com/vikas kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vikas kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/vikash_kumar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikash_kumar17" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/4k x gaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="4k x gaming" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shubhanshu01514807222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhanshu01514807222" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shubh01514807222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubh01514807222" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,4 +34,3 @@ img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mait0shubhanshu&show_icons=true&locale=en" alt="mait0shubhanshu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mait0shubhanshu&" alt="mait0shubhanshu" /></p>
-
